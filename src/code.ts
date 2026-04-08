@@ -15,3 +15,4 @@ console.log(`${animal}
      selected`);
 
 console.log(animal + "\n" + "     selected");
+
